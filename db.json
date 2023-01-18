@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 11
     },
     {
       "id": 2,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Plush Dragon",
+      "image": "https://cdn.shopify.com/s/files/1/0550/8487/5830/products/Winged-Dragon-Plush-008804-1-Packaging-Photo_c6931f28-b5f8-48ee-8dc5-18ecec5d29de.jpg?format=pjpg&amp;v=1664911453&amp;width=670",
+      "likes": 1,
+      "id": 9
     }
   ]
 }
